@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the computer science department at Indiana University. I am broadly interested in cognitive mechanisms that enable intelligent systems to develop general-purpose capabilities.
+I am a Ph.D. candidate in the computer science department at Indiana University. I am broadly interested in cognitive mechanisms that enable intelligent systems to develop general-purpose capabilities.
 
 Outside work, I like to bike with friends, find new coffee shops to work at, and dream of building generalist models that are better understood by us.	 
   
