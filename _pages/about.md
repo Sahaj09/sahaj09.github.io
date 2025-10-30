@@ -34,7 +34,7 @@ Outside work, I like to bike with friends, find new coffee shops to work at, and
 - Selahattin Akkas, Sahaj Singh Maini, and Judy Qiu. "A Fast Video Image Detection using TensorFlow Mobile Networks for Racing Cars." 2019 IEEE International Conference on Big Data (Big Data). IEEE, 2019. [pdf](https://ieeexplore.ieee.org/abstract/document/9005689)
 
 ### Posters
-- Billy Dickson, Sahaj Singh Maini, Zoran Tiganj. Combining LLMs and cognitive models of memory. Seventeenth Midwest Speech and Language Days [Poster](https://dickson.ai/assets/SITH_POSTER_UofM.pdf)
+- Billy Dickson, Sahaj Singh Maini, Zoran Tiganj. Combining LLMs and cognitive models of memory. Seventeenth Midwest Speech and Language Days [poster](https://dickson.ai/assets/SITH_POSTER_UofM.pdf)
 
 ### Fun side projects -
 - Visualizing Neural Network Embeddings [video](https://www.youtube.com/watch?v=Gcj6ArmyZog)
