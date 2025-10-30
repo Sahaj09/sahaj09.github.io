@@ -36,3 +36,7 @@ Outside work, I like to bike with friends, find new coffee shops to work at, and
 ### Posters
 - Billy Dickson, Sahaj Singh Maini, Zoran Tiganj. Combining LLMs and cognitive models of memory. Seventeenth Midwest Speech and Language Days [Poster](https://dickson.ai/assets/SITH_POSTER_UofM.pdf)
 
+### Fun side projects -
+- Visualizing Neural Network Embeddings [link](https://www.youtube.com/watch?v=Gcj6ArmyZog)
+- Visual Puzzles Benchmark (RL environment) [github](https://github.com/Sahaj09/Visual-Puzzles)
+
