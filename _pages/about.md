@@ -16,6 +16,11 @@ Outside work, I like to bike with friends, find new coffee shops to work at, and
 - Machine Learning	 
 - Computational Cognitive Neuroscience
 
+### Preprints
+- Anooshka Bajaj\*, Deven Mahesh Mistry\*, Sahaj Singh Maini, Yash Aggarwal, & Zoran Tiganj. (2025). Beyond Semantics: How Temporal Biases Shape Retrieval in Transformer and State-Space Models. [arxiv](https://arxiv.org/abs/2510.22752) (* for equal contribution)
+- Craig Sanders, Billy Dickson, Sahaj Singh Maini, Robert Nosofsky, & Zoran Tiganj. (2025). Vision-language models learn the geometry of human perceptual space. [arxiv](https://arxiv.org/abs/2510.20859)
+- Saber Sheybani, Sahaj Singh Maini, Aravind Dendukuri, Zoran Tiganj, and Linda B. Smith. 2024. “Modelvsbaby: A Developmentally Motivated Benchmark of Out-of-distribution Object Recognition.” PsyArXiv. May 21. doi:10.31234/osf.io/83gae. [arxiv](https://osf.io/preprints/psyarxiv/83gae) (Presented at ICDL 2024 as a poster)
+
 ### Publications-
 - Sahaj Singh Maini, and Zoran Tiganj. "Reinforcement Learning with Adaptive Temporal Discounting." Reinforcement Learning Conference 2025. [pdf](https://openreview.net/forum?id=PySTNiHvFI)
 - Deven Mistry, Anooshka Bajaj, Yash Aggarwal, Sahaj Singh Maini, Zoran Tiganj. 2025. "Emergence of episodic memory in LLMs: Characterizing changes in temporal structure of attention scores during training." [pdf](https://aclanthology.org/2025.naacl-long.448/) (accepted to NAACL 2025)
@@ -27,12 +32,6 @@ Outside work, I like to bike with friends, find new coffee shops to work at, and
 - James Mochizuki-Freeman, Sahaj Singh Maini, & Zoran Tiganj (2022). Evidence accumulation in deep RL agents powered by a cognitive model. In NeurIPS 2022 Memory in Artificial and Real Intelligence workshop. [pdf](https://memari-workshop.github.io/papers/paper_39.pdf)
 - Sahaj Singh Maini,  Louis Francis Labuzienski, Saurabh Gulati, and Zoran Tiganj. "Comparing Impact of Time Lag and Item Lag in Relative Judgment of Recency." Proceedings of the Annual Meeting of the Cognitive Science Society. Vol. 44. No. 44. 2022. [pdf](https://escholarship.org/uc/item/1v9795cd)
 - Selahattin Akkas, Sahaj Singh Maini, and Judy Qiu. "A Fast Video Image Detection using TensorFlow Mobile Networks for Racing Cars." 2019 IEEE International Conference on Big Data (Big Data). IEEE, 2019. [pdf](https://ieeexplore.ieee.org/abstract/document/9005689)
-
-
-### Preprints
-- Anooshka Bajaj\*, Deven Mahesh Mistry\*, Sahaj Singh Maini, Yash Aggarwal, & Zoran Tiganj. (2025). Beyond Semantics: How Temporal Biases Shape Retrieval in Transformer and State-Space Models. [arxiv](https://arxiv.org/abs/2510.22752) (* for equal contribution)
-- Craig Sanders, Billy Dickson, Sahaj Singh Maini, Robert Nosofsky, & Zoran Tiganj. (2025). Vision-language models learn the geometry of human perceptual space. [arxiv](https://arxiv.org/abs/2510.20859)
-- Saber Sheybani, Sahaj Singh Maini, Aravind Dendukuri, Zoran Tiganj, and Linda B. Smith. 2024. “Modelvsbaby: A Developmentally Motivated Benchmark of Out-of-distribution Object Recognition.” PsyArXiv. May 21. doi:10.31234/osf.io/83gae. [arxiv](https://osf.io/preprints/psyarxiv/83gae) (Presented at ICDL 2024 as a poster)
 
 ### Posters
 - Billy Dickson, Sahaj Singh Maini, Zoran Tiganj. Combining LLMs and cognitive models of memory. Seventeenth Midwest Speech and Language Days [Poster](https://dickson.ai/assets/SITH_POSTER_UofM.pdf)
