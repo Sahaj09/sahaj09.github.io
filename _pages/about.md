@@ -39,4 +39,5 @@ Outside work, I like to bike with friends, find new coffee shops to work at, and
 ### Fun side projects -
 - Visualizing Neural Network Embeddings [video](https://www.youtube.com/watch?v=Gcj6ArmyZog)
 - Visual Puzzles Benchmark (RL environment) [github](https://github.com/Sahaj09/Visual-Puzzles)
+- The Color Phi Phenomenon and Predictive Coding (My take on Daniel Dennet's Color Phi Argument) [pdf](https://sahaj09.github.io/files/color_phi_challenging_dennett_indistinguishability.pdf)
 
