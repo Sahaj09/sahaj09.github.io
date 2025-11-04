@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the computer science and cognitive science at Indiana University. I am broadly interested in cognitive mechanisms that enable intelligent systems to develop general-purpose capabilities.
 
-I am part of the CogNeuroAI lab led by Prof. Zoran Tiganj [link](https://homes.luddy.indiana.edu/ztiganj/) and affiliated to the Computer Vision lab led by Prof. David J Crandall [link](https://vision.soic.indiana.edu/).
+I am part of the CogNeuroAI lab led by Prof. Zoran Tiganj [link](https://homes.luddy.indiana.edu/ztiganj/) and affiliated to the Computer Vision lab led by Prof. David Crandall [link](https://vision.soic.indiana.edu/).
 
 Outside work, I like to bike with friends, find new coffee shops to work at, and dream of building generalist models that are better understood by us.	 
   
