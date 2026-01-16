@@ -12,18 +12,18 @@ I am a Ph.D. candidate in the computer science and cognitive science at Indiana 
 
 I am part of the CogNeuroAI Lab led by Prof. Zoran Tiganj [link](https://homes.luddy.indiana.edu/ztiganj/) and affiliated with the Computer Vision Lab led by Prof. David Crandall [link](https://vision.soic.indiana.edu/).
 
-Outside work, I like to bike with friends, find new coffee shops to work at, and dream of building generalist models that are better understood by us.	 
+Outside work, I like to bike with friends, find new coffee shops to work at, and dream of building generalist models that are better understood by us.
   
 ### Interests-	 
 - Machine Learning	 
 - Computational Cognitive Neuroscience
 
 ### Preprints
-- Anooshka Bajaj\*, Deven Mahesh Mistry\*, Sahaj Singh Maini, Yash Aggarwal, & Zoran Tiganj. (2025). Beyond Semantics: How Temporal Biases Shape Retrieval in Transformer and State-Space Models. [arxiv](https://arxiv.org/abs/2510.22752) (* for equal contribution)
 - Craig Sanders, Billy Dickson, Sahaj Singh Maini, Robert Nosofsky, & Zoran Tiganj. (2025). Vision-language models learn the geometry of human perceptual space. [arxiv](https://arxiv.org/abs/2510.20859)
 - Saber Sheybani, Sahaj Singh Maini, Aravind Dendukuri, Zoran Tiganj, and Linda B. Smith. 2024. “Modelvsbaby: A Developmentally Motivated Benchmark of Out-of-distribution Object Recognition.” PsyArXiv. May 21. doi:10.31234/osf.io/83gae. [arxiv](https://osf.io/preprints/psyarxiv/83gae) (Presented at ICDL 2024 as a poster)
 
 ### Publications-
+- Anooshka Bajaj\*, Deven Mahesh Mistry\*, Sahaj Singh Maini, Yash Aggarwal, & Zoran Tiganj. (2025). Beyond Semantics: How Temporal Biases Shape Retrieval in Transformer and State-Space Models. [arxiv](https://arxiv.org/abs/2510.22752) (* for equal contribution) (accepted to EACL 2026)
 - Sahaj Singh Maini, and Zoran Tiganj. "Reinforcement Learning with Adaptive Temporal Discounting." Reinforcement Learning Conference 2025. [pdf](https://openreview.net/forum?id=PySTNiHvFI)
 - Deven Mistry, Anooshka Bajaj, Yash Aggarwal, Sahaj Singh Maini, Zoran Tiganj. 2025. "Emergence of episodic memory in LLMs: Characterizing changes in temporal structure of attention scores during training." [pdf](https://aclanthology.org/2025.naacl-long.448/) (accepted to NAACL 2025)
 - Billy Dickson\*, Sahaj Singh Maini\*, Robert Nosofsky, and Zoran Tiganj. 2025. “Comparing Perceptual Judgments in Large Multimodal Models and Humans.” Behavior Research Methods 57.7 (2025): 1-13. [pdf](https://link.springer.com/article/10.3758/s13428-025-02728-w) (* for equal contribution)
