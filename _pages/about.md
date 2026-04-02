@@ -19,7 +19,7 @@ Outside work, I like to bike with friends, find new coffee shops to work at, and
 - Computational Cognitive Neuroscience
 
 ### Preprints
-- Anooshka Bajaj\*, Deven Mahesh Mistry\*, Sahaj Singh Maini\*, Aggarwal, Y., Dickson, B., & Tiganj, Z. (2026). Temporal Dependencies in In-Context Learning: The Role of Induction Heads. (* for equal contribution) [arxiv](https://arxiv.org/abs/2604.01094)
+- Anooshka Bajaj\*, Deven Mahesh Mistry\*, Sahaj Singh Maini\*, Yash Aggarwal, Billy Dickson, & Zoran Tiganj (2026). Temporal Dependencies in In-Context Learning: The Role of Induction Heads. (* for equal contribution) [arxiv](https://arxiv.org/abs/2604.01094)
 - Craig Sanders, Billy Dickson, Sahaj Singh Maini, Robert Nosofsky, & Zoran Tiganj. (2025). Vision-language models learn the geometry of human perceptual space. [arxiv](https://arxiv.org/abs/2510.20859)
 - Saber Sheybani, Sahaj Singh Maini, Aravind Dendukuri, Zoran Tiganj, and Linda B. Smith. 2024. “Modelvsbaby: A Developmentally Motivated Benchmark of Out-of-distribution Object Recognition.” PsyArXiv. May 21. doi:10.31234/osf.io/83gae. [arxiv](https://osf.io/preprints/psyarxiv/83gae) (Presented at ICDL 2024 as a poster)
 
