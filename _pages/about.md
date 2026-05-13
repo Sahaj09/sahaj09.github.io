@@ -18,6 +18,17 @@ Outside work, I like to bike with friends, find new coffee shops to work at, and
 - Machine Learning	 
 - Computational Cognitive Neuroscience
 
+### Service
+- Reviewer for NeurIPS, ICML, COLM, IJCNN, and TMLR
+- Gold Reviewer (top 25%), ICML 2026
+
+### Teaching
+- Lead Associate Instructor
+  - Applied ML — Spring 2023
+  - Elements of AI — Fall 2020, 2022, 2023, 2024, 2025
+  - Computer Vision — Spring 2024, 2025, 2026
+- Associate Instructor of the Year, 2026
+
 ### Preprints -
 - Sahaj Singh Maini, Robert L. Goldstone, Zoran Tiganj (2026). High Volatility and Action Bias Distinguish LLMs from Humans in Group Coordination [arxiv](https://arxiv.org/abs/2604.02578), [project page](https://cogneuroai.github.io/Human-vs-LLM-Group-Coordination/)
 - Anooshka Bajaj\*, Deven Mahesh Mistry\*, Sahaj Singh Maini\*, Yash Aggarwal, Billy Dickson, & Zoran Tiganj (2026). Temporal Dependencies in In-Context Learning: The Role of Induction Heads. (* for equal contribution) [arxiv](https://arxiv.org/abs/2604.01094)
