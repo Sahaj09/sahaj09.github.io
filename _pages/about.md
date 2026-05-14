@@ -23,10 +23,7 @@ Outside work, I like to bike with friends, find new coffee shops to work at, and
 - Gold Reviewer (top 25%), ICML 2026
 
 ### Teaching
-- Lead Associate Instructor
-  - Applied ML — Spring 2023
-  - Elements of AI — Fall 2020, 2022, 2023, 2024, 2025
-  - Computer Vision — Spring 2024, 2025, 2026
+- Lead Associate Instructor - Applied ML (Spring 2023), Elements of AI (Fall 2020, 2022, 2023, 2024, 2025), Computer Vision (Spring 2024, 2025, 2026)
 - Associate Instructor of the Year, 2026
 
 ### Preprints -
