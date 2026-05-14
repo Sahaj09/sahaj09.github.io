@@ -14,7 +14,7 @@ I am part of the CogNeuroAI Lab led by Prof. Zoran Tiganj [link](https://homes.l
 
 Outside work, I like to bike with friends, find new coffee shops to work at, and dream of building generalist models that are better understood by us.
   
-### Interests-	 
+### Interests 
 - Machine Learning	 
 - Computational Cognitive Neuroscience
 
@@ -26,13 +26,13 @@ Outside work, I like to bike with friends, find new coffee shops to work at, and
 - Lead Associate Instructor - Applied ML (Spring 2023), Elements of AI (Fall 2020, 2022, 2023, 2024, 2025), Computer Vision (Spring 2024, 2025, 2026)
 - Associate Instructor of the Year, 2026
 
-### Preprints -
+### Preprints 
 - Sahaj Singh Maini, Robert L. Goldstone, Zoran Tiganj (2026). High Volatility and Action Bias Distinguish LLMs from Humans in Group Coordination [arxiv](https://arxiv.org/abs/2604.02578), [project page](https://cogneuroai.github.io/Human-vs-LLM-Group-Coordination/)
 - Anooshka Bajaj\*, Deven Mahesh Mistry\*, Sahaj Singh Maini\*, Yash Aggarwal, Billy Dickson, & Zoran Tiganj (2026). Temporal Dependencies in In-Context Learning: The Role of Induction Heads. (* for equal contribution) [arxiv](https://arxiv.org/abs/2604.01094)
 - Craig Sanders, Billy Dickson, Sahaj Singh Maini, Robert Nosofsky, & Zoran Tiganj. (2025). Vision-language models learn the geometry of human perceptual space. [arxiv](https://arxiv.org/abs/2510.20859)
 - Saber Sheybani, Sahaj Singh Maini, Aravind Dendukuri, Zoran Tiganj, and Linda B. Smith. 2024. “Modelvsbaby: A Developmentally Motivated Benchmark of Out-of-distribution Object Recognition.” PsyArXiv. May 21. doi:10.31234/osf.io/83gae. [arxiv](https://osf.io/preprints/psyarxiv/83gae) (Presented at ICDL 2024 as a poster)
 
-### Publications-
+### Publications
 - Anooshka Bajaj\*, Deven Mahesh Mistry\*, Sahaj Singh Maini, Yash Aggarwal, & Zoran Tiganj. (2025). Beyond Semantics: How Temporal Biases Shape Retrieval in Transformer and State-Space Models. [arxiv](https://arxiv.org/abs/2510.22752) (* for equal contribution) (accepted to EACL 2026)
 - Sahaj Singh Maini, and Zoran Tiganj. "Reinforcement Learning with Adaptive Temporal Discounting." Reinforcement Learning Conference 2025. [pdf](https://openreview.net/forum?id=PySTNiHvFI)
 - Deven Mistry, Anooshka Bajaj, Yash Aggarwal, Sahaj Singh Maini, Zoran Tiganj. 2025. "Emergence of episodic memory in LLMs: Characterizing changes in temporal structure of attention scores during training." [pdf](https://aclanthology.org/2025.naacl-long.448/) (accepted to NAACL 2025)
