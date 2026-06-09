@@ -16,7 +16,8 @@ Outside work, I like to bike with friends, find new coffee shops to work at, and
   
 ### Interests 
 - Machine Learning	 
-- Computational Cognitive Neuroscience
+- Cognitive Science
+- Computational Neuroscience
 
 ### Service
 - Reviewer for NeurIPS, ICML, COLM, IJCNN, and TMLR
