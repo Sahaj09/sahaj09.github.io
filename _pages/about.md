@@ -20,11 +20,12 @@ My research lies at the intersection of machine learning, cognitive science and 
 
 A central question in my work is how general-purpose intelligence emerges from limited experience and finite computational resources. Humans learn efficiently and flexibly apply prior knowledge in unfamiliar situations. I investigate these abilities through computational models, behavioral experiments, and analyses of neural networks. Ultimately, I hope that understanding cognition in AI systems and humans will help us build systems that are more adaptable, interpretable, and aligned with the ways people learn and reason.
 
-
+<!-- 
 ### Interests 
 - Machine Learning	 
 - Cognitive Science
 - Computational Neuroscience
+-->
 
 ### Service
 - Reviewer for NeurIPS, ICML, COLM, IJCNN, and TMLR
