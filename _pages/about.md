@@ -8,12 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the department of computer science and cognitive science program at Indiana University. I am broadly interested in cognitive mechanisms that enable intelligent systems to develop general-purpose capabilities.
+<!-- I am a Ph.D. candidate in the department of computer science and cognitive science program at Indiana University. I am broadly interested in cognitive mechanisms that enable intelligent systems to develop general-purpose capabilities.
 
 I am part of the [Cognitive Science and Artificial Intelligence Lab](https://cogai.luddy.indiana.edu/) led by [Prof. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) and affiliated with the [IU Computer Vision Lab](https://vision.soic.indiana.edu/) led by [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/).
 
-Outside work, I like to bike with friends, find new coffee shops to work at, and dream of building generalist models that are better understood by us.
-  
+Outside work, I like to bike with friends, find new coffee shops to work at, and dream of building generalist models that are better understood by us. -->
+
+I am a Ph.D. candidate in computer science and cognitive science at Indiana University. I am part of the [Cognitive Science and Artificial Intelligence Lab](https://cogai.luddy.indiana.edu/) led by [Prof. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) and affiliated with the [IU Computer Vision Lab](https://vision.soic.indiana.edu/) led by [Prof. David Crandall](https://homes.luddy.indiana.edu/djcran/).
+
+My research lies at the intersection of machine learning, cognitive science and computational neuroscience. I study how intelligent systems represent experience, use memory, make decisions, and adapt their behavior over time. By comparing humans with modern AI systems, I aim to identify which computational principles they share and where their strategies fundamentally diverge.
+
+A central question in my work is how general-purpose intelligence emerges from limited experience and finite computational resources. Humans learn efficiently and flexibly apply prior knowledge in unfamiliar situations. I investigate these abilities through computational models, behavioral experiments, and analyses of neural networks. Ultimately, I hope that understanding cognition in AI systems and humans will help us build systems that are more adaptable, interpretable, and aligned with the ways people learn and reason.
+
+
 ### Interests 
 - Machine Learning	 
 - Cognitive Science
