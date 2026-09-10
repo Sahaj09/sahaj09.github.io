@@ -28,7 +28,7 @@ A central question in my work is how general-purpose intelligence emerges from l
 -->
 
 ### Service
-- Reviewer for NeurIPS, ICML, COLM, IJCNN, and TMLR
+- Reviewer for NeurIPS, ICML, AAAI, COLM, IJCNN, and TMLR
 - Gold Reviewer (top 25%), ICML 2026
 
 ### Teaching
